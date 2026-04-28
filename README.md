@@ -1,6 +1,7 @@
 
 
 EL421 – Final Assignment: Schedule Search
+---
 IPSA Toulouse | Promotion 2027 – Aero 4  
 **Authors:** Simon Lignac  
 **Instructor:** Jasdeep Singh | Academic Year 2025–2026
