@@ -2,7 +2,7 @@
 """
 Created on Mon Apr 27 20:04:52 2026
 
-@author: steev
+@author: ligna
 """
 
 import random as rd
