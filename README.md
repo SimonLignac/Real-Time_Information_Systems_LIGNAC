@@ -8,12 +8,12 @@
 
 ## Overview
 
-This project analyses and schedules a set of **7 periodic real-time tasks** on a single processor. It covers:
+This project analyses and schedules a set of 7 periodic real-time tasks on a single processor. It covers:
 
-1. **WCET measurement** of task τ₁ (product of two 512-bit integers) via statistical sampling
-2. **Schedulability analysis** using the Liu & Layland utilisation bound and response time analysis
-3. **Optimal non-preemptive schedule** minimising total waiting time over one hyperperiod
-4. **Relaxed schedule** where τ₅ is allowed to miss its deadline
+1. WCET measurement of task τ₁ (product of two 512-bit integers) via statistical sampling
+2. Schedulability analysis using the Liu & Layland utilisation bound and response time analysis
+3. Optimal non-preemptive schedule minimising total waiting time over one hyperperiod
+4. Relaxed schedule where τ₅ is allowed to miss its deadline
 
 ---
 
